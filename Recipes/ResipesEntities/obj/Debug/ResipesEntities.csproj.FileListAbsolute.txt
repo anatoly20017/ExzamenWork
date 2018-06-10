@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\ResipesEntities.dll.config
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\ResipesEntities.dll
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\ResipesEntities.pdb
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.pdb
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\RecipesDomainAbstractions.dll.config
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Recipes\ResipesEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Recipes\ResipesEntities\obj\Debug\ResipesEntities.csproj.CopyComplete
+C:\Users\User\source\repos\Recipes\ResipesEntities\obj\Debug\ResipesEntities.dll
+C:\Users\User\source\repos\Recipes\ResipesEntities\obj\Debug\ResipesEntities.pdb
